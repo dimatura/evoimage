@@ -1,0 +1,7 @@
+*.so
+log_*
+build
+*.jpg
+*.html
+*.c
+*.png
